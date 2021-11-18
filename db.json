@@ -1,62 +1,62 @@
 {
-"cases": [
-    {
-      "title": "Смертельных травм",
-      "color": "#000000",
-      "count": 4
-    },
-    {
-      "title": "Травм с потерей дней трудоспособности",
-      "color": "#F5222D",
-      "count": 74
-    },
-    {
-      "title": "Дней без травм",
-      "color": "#096DD9",
-      "count": 15
-    },
-    {
-      "title": "Дней до конца года",
-      "color": "#389E0D",
-      "count": 144
-    }
-],
-    "news": [
-    {
-      url: '#1',
-      title: 'У казахстанских шахтеров будут новые защитные очки',
-      img: 'https://s3-alpha-sig.figma.com/img/6b72/b659/562403fc5a6cd0a7eb170591a14a1499?Expires=1637539200&Signature=C5r7vFpz6~kyHuRRx7Mh-ZGGt8lsxnQww-GOQYuVFgASSavDpwKB9lSpvXSYgipg0TRuFJj-zIBhQO58rSrzHBNJ9WC7kDxyPUQnfwtqG-JZ8JqWCuSz8LFutHxnBXvIKZDZ~HtwkCFPNf79q--Q7b~XaH5Mc-eaxRUuQEZ68tzl~ZTEWsLrEbIO~5bN8jYmgvz222HUXiQdPsK4kgi2kbKCiIQdQ94VFdlBPYzSoU5cMG~UeSA7Ziqb5bxt03zERoZwCJvOqyOYZwoZCwDt9fzDQE7DEEDaznwPGvrPkG~SBydZBzImIrLF~efveOKIQdPRCvK7JKY4xcuyg-L8wg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
-      views: 5,
-      time: 35,
-      likes: 45,
-      comments:3
-    },
-    {
-      url: '#2',
-      title: 'Шахтерская династия Оспановых — гордость "Казхрома"',
-      img: 'https://s3-alpha-sig.figma.com/img/9101/7ef5/b79e181b92c210eaf5f7ec704a29a3e8?Expires=1637539200&Signature=GEsY25SsA7pqbevjOtEvBHYDYYvPjTXDdOzjEp~~beJnsPoRx4brzp-H-7n2B8q4yxLbXaDckJC2dDhKIUj3ufPs0rj1Y4zZDBWvFSv7bAUB7u-iLMM8044ciaidYpgDn~lcm9AOM9Rbgndd-4wiNF7gaOU1LbpzxaXwrArpBhWnJKrQWgSlabf2zksg~zVubp15rmWxQMvTG3a-I8ggV0qXAs2ajHWH1NWK8V8i-JX9xi76uhid1pwBw9Q0zRwN~7gbIRbcgwdPNp8-WOi58G21pQ6gfuHO-fy5Pr9yiki6Ll-77g5pfkXa3FgtLd0C7y8X9Ig1S-nRX~WIlLj31Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
-      views: 5,
-      time: 10,
-      likes: 5,
-      comments:2
-    },
-    {
-      url: '#3',
-      title: 'Заголовок в одну строку',
-      img: 'https://s3-alpha-sig.figma.com/img/9a5a/9f19/83ca846f82a43c5f2acbccfa720338f5?Expires=1638144000&Signature=HYgTFn0VXlGBhVMCQni4CFVpvqLX1VuTcevwPsyPFs8U4Oo5R7WCW9728DSIXR9r~cfgGROvSnMqZHPoxSqta~1ZcL4KmudZpxxZja3gdgO9ctdnXoaxsK0UCrHD9-Kv2jPuBpEfYPKFaeIjQP1DPKYFGsgLo~hfpAcGmIHDwkYhBTuy8nYSWhcpdA1xTAQ-m50xtXjE5B37gBgrzcSFdeFMfo1TFhxyAfi3kOKMwsOGpdpxXd3NMf-OG6mzl~PWx1HwuVs51k7OQuLN6j1FNR45kyz73xHratiNccQtvYYUsdzHj2acpyt997EHVdyckBXi5kQKEs6C9SgUuJ4O~g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
-      views: 65,
-      time: 890,
-      likes: 46,
-      comments:62
-    },
-    {
-      url: '#4',
-      title: 'У казахстанских шахтеров будут новые защитные очки',
-      img: 'https://s3-alpha-sig.figma.com/img/3365/f1dd/77519ceb3330f1486f62e1190c455da1?Expires=1638144000&Signature=WKWYOF3qYcxTx6bwAqSwn0BaFc4CUMr~7KybYAFuHIuktFzjtH0EteTRMaY2TOABuSgacy7ecsYBaADDIDNAtaklLk1Rk09ejaTWxe2hsW-zRqYfUf5NPztH-XH7FtVnEvTawUTEyd70F1-ZKM9JkXM4o2QL-n5i25eh4oYZCDIiZaAb5qK9R2un2L76V4MxELJ7uvj6H-Sl8qeUJvxKk~6rRgdw9nsgzuRdsHFPdJHma4SSMx9dXTQLM2U4rbXJbaYbmqpura9ydXKZHGggNmmrHTYWbIkurA5Dp3JluxiwVg-LwEfU0xFmWJkFXZNg08xpjnCzcc8pkvpfeoEpYg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
-      views: 5564,
-      time: 1045,
-      likes: 535,
-      comments:27
-    },
-  ]
+   "cases":[
+      {
+         "title":"Смертельных травм",
+         "color":"#000000",
+         "count":4
+      },
+      {
+         "title":"Травм с потерей дней трудоспособности",
+         "color":"#F5222D",
+         "count":74
+      },
+      {
+         "title":"Дней без травм",
+         "color":"#096DD9",
+         "count":15
+      },
+      {
+         "title":"Дней до конца года",
+         "color":"#389E0D",
+         "count":144
+      }
+   ],
+   "news":[
+      {
+         "url":"#1",
+         "title":"У казахстанских шахтеров будут новые защитные очки",
+         "img":"https://s3-alpha-sig.figma.com/img/6b72/b659/562403fc5a6cd0a7eb170591a14a1499?Expires=1637539200&Signature=C5r7vFpz6~kyHuRRx7Mh-ZGGt8lsxnQww-GOQYuVFgASSavDpwKB9lSpvXSYgipg0TRuFJj-zIBhQO58rSrzHBNJ9WC7kDxyPUQnfwtqG-JZ8JqWCuSz8LFutHxnBXvIKZDZ~HtwkCFPNf79q--Q7b~XaH5Mc-eaxRUuQEZ68tzl~ZTEWsLrEbIO~5bN8jYmgvz222HUXiQdPsK4kgi2kbKCiIQdQ94VFdlBPYzSoU5cMG~UeSA7Ziqb5bxt03zERoZwCJvOqyOYZwoZCwDt9fzDQE7DEEDaznwPGvrPkG~SBydZBzImIrLF~efveOKIQdPRCvK7JKY4xcuyg-L8wg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+         "views":5,
+         "time":35,
+         "likes":45,
+         "comments":3
+      },
+      {
+         "url":"#2",
+         "title":"Шахтерская династия Оспановых — гордость \"Казхрома\"",
+         "img":"https://s3-alpha-sig.figma.com/img/9101/7ef5/b79e181b92c210eaf5f7ec704a29a3e8?Expires=1637539200&Signature=GEsY25SsA7pqbevjOtEvBHYDYYvPjTXDdOzjEp~~beJnsPoRx4brzp-H-7n2B8q4yxLbXaDckJC2dDhKIUj3ufPs0rj1Y4zZDBWvFSv7bAUB7u-iLMM8044ciaidYpgDn~lcm9AOM9Rbgndd-4wiNF7gaOU1LbpzxaXwrArpBhWnJKrQWgSlabf2zksg~zVubp15rmWxQMvTG3a-I8ggV0qXAs2ajHWH1NWK8V8i-JX9xi76uhid1pwBw9Q0zRwN~7gbIRbcgwdPNp8-WOi58G21pQ6gfuHO-fy5Pr9yiki6Ll-77g5pfkXa3FgtLd0C7y8X9Ig1S-nRX~WIlLj31Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+         "views":5,
+         "time":10,
+         "likes":5,
+         "comments":2
+      },
+      {
+         "url":"#3",
+         "title":"Заголовок в одну строку",
+         "img":"https://s3-alpha-sig.figma.com/img/9a5a/9f19/83ca846f82a43c5f2acbccfa720338f5?Expires=1638144000&Signature=HYgTFn0VXlGBhVMCQni4CFVpvqLX1VuTcevwPsyPFs8U4Oo5R7WCW9728DSIXR9r~cfgGROvSnMqZHPoxSqta~1ZcL4KmudZpxxZja3gdgO9ctdnXoaxsK0UCrHD9-Kv2jPuBpEfYPKFaeIjQP1DPKYFGsgLo~hfpAcGmIHDwkYhBTuy8nYSWhcpdA1xTAQ-m50xtXjE5B37gBgrzcSFdeFMfo1TFhxyAfi3kOKMwsOGpdpxXd3NMf-OG6mzl~PWx1HwuVs51k7OQuLN6j1FNR45kyz73xHratiNccQtvYYUsdzHj2acpyt997EHVdyckBXi5kQKEs6C9SgUuJ4O~g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+         "views":65,
+         "time":890,
+         "likes":46,
+         "comments":62
+      },
+      {
+         "url":"#4",
+         "title":"У казахстанских шахтеров будут новые защитные очки",
+         "img":"https://s3-alpha-sig.figma.com/img/3365/f1dd/77519ceb3330f1486f62e1190c455da1?Expires=1638144000&Signature=WKWYOF3qYcxTx6bwAqSwn0BaFc4CUMr~7KybYAFuHIuktFzjtH0EteTRMaY2TOABuSgacy7ecsYBaADDIDNAtaklLk1Rk09ejaTWxe2hsW-zRqYfUf5NPztH-XH7FtVnEvTawUTEyd70F1-ZKM9JkXM4o2QL-n5i25eh4oYZCDIiZaAb5qK9R2un2L76V4MxELJ7uvj6H-Sl8qeUJvxKk~6rRgdw9nsgzuRdsHFPdJHma4SSMx9dXTQLM2U4rbXJbaYbmqpura9ydXKZHGggNmmrHTYWbIkurA5Dp3JluxiwVg-LwEfU0xFmWJkFXZNg08xpjnCzcc8pkvpfeoEpYg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+         "views":5564,
+         "time":1045,
+         "likes":535,
+         "comments":27
+      }
+   ]
 }
